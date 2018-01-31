@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Aula Activity</string>
+    <string name="btn_new_activity">abrir nova activity</string>
+</resources>

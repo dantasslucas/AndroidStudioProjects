@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProjetoActivity</string>
+    <string name="btn_irParaActivity2">Ir para activity 2</string>
+</resources>

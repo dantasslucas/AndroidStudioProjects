@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AtmEmpresaConsultoria</string>
+    <string name="sobre_empresa">Sobre  a Empresa</string>
+    <string name="emp_devsis">Empresa de Desenvolvimento de Sistemas</string>
+    <string name="emp_audit">Empresa de Auditoria</string>
+    <string name="email">E-mail:consultoria@atm.com.br</string>
+    <string name="telefone">Telefone:(11)91233-1239</string>
+    <string name="celular">Celular:(11)99232-1231</string>
+</resources>
